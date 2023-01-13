@@ -22,7 +22,7 @@ This project was built using React, CSS, JavaScript, Bootstrap
 2. Upload to your server's main directory.
 3. Install node modules
 4. Install react bootstrap
-5. Instal [aos](https://github.com/michalsnik/aos#animations) animations
+5. Install [aos](https://github.com/michalsnik/aos#animations) animations
 
 ## Credits
 [Robertas Kirkickas](https://github.com/RobertasKirkickas)
