@@ -13,7 +13,7 @@ Contents
 - [Credits](#credits)
 
 ## About the Project
-This project was built using React, CSS, JavaScript, Bootstrap, React-bootstrap
+This project was built using React, CSS, JavaScript, Bootstrap
 - 
 
 
