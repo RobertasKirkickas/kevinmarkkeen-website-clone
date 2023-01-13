@@ -1,7 +1,7 @@
 # kevinmarkkeen.com website clone
 ### Copyright to images / photos belongs to: [kevinmarkkeen.com](https://kevinmarkkeen.com)
 
-Check out live: [Here](https://robertas-kirkickas-kmk-website-clone.netlify.app/)
+Check out live: [Here](https://robertas-kirkickas-kmk-website-clone.netlify.app/){:target="_blank" rel="noopener"}
 
 ## ![kmk](https://user-images.githubusercontent.com/121698117/212209284-4dd34fe2-0135-44d9-87c7-d6a3e25f83b3.png)
 
